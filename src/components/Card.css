@@ -1,0 +1,10 @@
+.cardsPrincipal img{
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: rgb(238, 79, 16);
+}
+.cardsPrincipal p{
+    width: 200px;
+    height: auto;
+}

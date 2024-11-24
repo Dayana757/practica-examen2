@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row-reverse;
+   align-items: center;
+}
+.button {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+#buttonAmarillo{
+    background-color: yellow;
+}
+#buttonAzul{
+    background-color: blue;
+}
+#buttonRojo{
+    background-color: red;
+}
